@@ -1,7 +1,7 @@
 //set the variables for the number for greeting and activity
 let greeting = 'Welcome to my calculator'
-let firstNum = 3
-let secondNum = 9
+let firstNum = 5
+let secondNum = 7
 let total = firstNum + secondNum 
 let activity = `The sum of ${firstNum} + ${secondNum} is : ${total}`
 
